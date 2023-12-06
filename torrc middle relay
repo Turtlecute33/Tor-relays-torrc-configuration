@@ -1,0 +1,8 @@
+Nickname TORtaruga
+ContactInfo [turtlecute]@[horsefucker].[org]
+AccountingRule sum
+AccountingStart week 1 10:00
+AccountingMax 1700 GB
+ORPort 443
+ExitRelay 0
+SocksPort 0 
